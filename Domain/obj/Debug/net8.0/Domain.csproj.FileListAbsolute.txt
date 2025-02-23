@@ -1,0 +1,11 @@
+D:\trabajo\app\ACME.Abastecimiento\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\trabajo\app\ACME.Abastecimiento\Domain\bin\Debug\net8.0\Domain.dll
+D:\trabajo\app\ACME.Abastecimiento\Domain\bin\Debug\net8.0\Domain.pdb
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.dll
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\Domain.pdb
+D:\trabajo\app\ACME.Abastecimiento\Domain\obj\Debug\net8.0\ref\Domain.dll

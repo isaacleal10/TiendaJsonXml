@@ -1,6 +1,0 @@
-@TiendaJsonXml_HostAddress = http://localhost:5196
-
-GET {{TiendaJsonXml_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###

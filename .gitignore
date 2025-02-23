@@ -1,0 +1,14 @@
+﻿################################################################################
+# Este archivo .gitignore ha sido creado automáticamente por Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/TiendaJsonXml/obj/project.assets.json
+/TiendaJsonXml/obj/Debug/net8.0/TiendaJsonXml.AssemblyInfo.cs
+/TiendaJsonXml/obj/Debug/net8.0/TiendaJsonXml.AssemblyInfoInputs.cache
+/TiendaJsonXml/obj/Debug/net8.0/TiendaJsonXml.assets.cache
+/TiendaJsonXml/obj/Debug/net8.0/TiendaJsonXml.csproj.AssemblyReference.cache
+/TiendaJsonXml/obj/Debug/net8.0/TiendaJsonXml.GeneratedMSBuildEditorConfig.editorconfig
+/TiendaJsonXml/obj/project.nuget.cache
+/TiendaJsonXml/obj/TiendaJsonXml.csproj.nuget.dgspec.json
+/TiendaJsonXml/obj/TiendaJsonXml.csproj.nuget.g.props
